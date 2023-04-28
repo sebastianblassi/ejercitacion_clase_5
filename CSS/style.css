@@ -1,0 +1,38 @@
+/* BODY */
+
+/* HEADER */
+.header {
+    background-color: grey;
+    height: 150px;
+}
+
+.ul {
+    list-style: none;
+}
+
+/* MAIN */
+
+/* Horarios de atencion */
+.dias {
+    color: red;
+    font-size: 25px;
+
+}
+.horarios {
+    color: red;
+}
+
+/* Contactos */
+.form {
+    border-bottom: 5px;
+    border-style: double;
+    border-color: grey;
+    padding: 20px;
+    width: 30%;
+}
+
+/* FOOTER */
+.footer {
+    background-color: grey;
+    height: 50px;
+}
